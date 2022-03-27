@@ -164,7 +164,7 @@
     "eslint": "*",
     "husky": "7.0.4",
     "i": "0.3.7",
-    "ioredis": "4.28.5",
+    "ioredis": "5.0.1",
     "jest": "27.5.1",
     "lint-staged": "12.3.7",
     "prettier": "2.6.0",
@@ -185,7 +185,7 @@
   },
   "resolutions": {
     "typescript": "4.6.3",
-    "ioredis": "4.28.5",
+    "ioredis": "5.0.1",
     "webpack": "5.70.0"
   }
 }
